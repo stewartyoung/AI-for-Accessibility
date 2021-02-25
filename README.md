@@ -1,2 +1,2 @@
-# AI-for-Accessibility
-DB Accessibility for AI Hackathon - Grad's Gambit 
+# DB Accessibility for AI Hackathon - Grad's Gambit 
+
